@@ -1,0 +1,330 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+
+.logo{
+    color: #faeab1;
+    font-size: 50px;
+    font-family: copperplate, Papyrus, fantasy;
+    padding-left: 20px;
+    float: left;
+    padding-top: 55px;
+    margin-top: 5px
+
+}
+
+.menu{
+    width: 400px;
+    float: right;
+    height: 70px;
+}
+
+ul{
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 5px;
+    font-size: 20px;
+    padding-top: 55px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #faeab1;
+    font-family: copperplate, Papyrus, fantasy;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+
+}
+
+ul li a:hover{
+    color: #c58940;
+}
+
+style{
+    background-image: url(shisoka.jpg);
+    background-repeat: no-repeat;
+    width: 600px;
+    height: 200px;
+    position: 
+    }
+
+    .welcome{
+        width: 1200px;
+        height: auto;
+        margin: auto;
+        color: #faeab1;
+        position: relative;
+        
+    }
+    
+    .welcome .par{
+        padding-left: 20px;
+        padding-bottom: 25px;
+        font-family: copperplate, Papyrus, fantasy;
+        letter-spacing: 1.2px;
+        font-size: 20px;
+        line-height: 30px;
+        padding-top: 30px
+        
+    }
+
+    .welcome h1{
+        font-family:copperplate, Papyrus, fantasy;
+        font-size: 40px;
+        padding-left: 20px;
+        margin-top: 9%;
+        letter-spacing: 2px;
+        padding-top: 70px;
+    }
+    
+    .welcome .cn{
+        width: 160px;
+        height: 40px;
+        background: #c58940;
+        border: none;
+        margin-bottom: 10px;
+        margin-left: 20px;
+        font-size: 15px;
+        border-radius: 10px;
+        transition: .4 ease;
+        font-family: copperplate, Papyrus, fantasy;
+        cursor: pointer
+
+    }
+.welcome .cn a{
+    text-decoration: none;
+    color: #faeab1;
+    transition: .3s ease;
+}
+
+.cn:hover{
+    background-color: #e5ba73;
+}
+
+    body {
+        background-size: cover;
+        background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(2.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+       }
+    
+.about{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: #faeab1;
+    position: relative;
+}
+
+.desc{
+    padding-left: 20px;
+    font-family: copperplate, Papyrus, fantasy;
+    font-size: 20px;
+    padding-top: 30px
+
+}
+
+.about h1{
+    font-size: 40px;
+    padding-left: 20px;
+    margin-top: 9%;
+    letter-spacing: 2px;
+    padding-top: 70px;
+
+} 
+
+.q1{
+    font-family: copperplate, Papyrus, fantasy;
+    padding-left: 20px;
+        margin-top: 2%;
+        letter-spacing: 2px;
+        padding-top: 10px;
+}
+
+
+.desc3{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: copperplate, Papyrus, fantasy;
+    letter-spacing: 1.2px;
+    font-size: 30px;
+    line-height: 30px;
+    padding-top: 30px
+
+}
+
+
+.desc2{
+    padding-left: 20px;
+        padding-bottom: 25px;
+        font-family: copperplate, Papyrus, fantasy;
+        letter-spacing: 1.2px;
+        font-size: 20px;
+        line-height: 30px;
+        padding-top: 30px
+}
+ 
+
+.q2 {
+    font-family: copperplate, Papyrus, fantasy;
+    padding-left: 20px;
+        margin-top: 2%;
+        letter-spacing: 2px;
+        padding-top: 10px;
+}
+
+.desc4{
+        padding-left: 20px;
+        padding-bottom: 25px;
+        font-family: copperplate, Papyrus, fantasy;
+        letter-spacing: 1.2px;
+        font-size: 30px;
+        line-height: 30px;
+        padding-top: 30px
+}
+
+
+.streaming{
+    font-family: copperplate, Papyrus, fantasy;
+    padding-left: 20px;
+        margin-top: 2%;
+        letter-spacing: 2px;
+        padding-top: 40px;
+
+}
+
+.events{
+    font-family: copperplate, Papyrus, fantasy;
+    padding-left: 20px;
+    margin-top: 2%;
+    letter-spacing: 2;
+    padding-top: 10px;
+    margin: auto;
+    height: auto;
+}
+
+.poster{
+    font-family: copperplate, Papyrus, fantasy;
+    padding-left: 20px;
+        margin-top: 2%;
+        letter-spacing: 2px;
+        padding-top: 10px;
+    color: #faeab1;
+
+}
+.events{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: #faeab1;
+    position: relative;
+}
+
+
+.events .h1{
+    font-size: 40px;
+    padding-left: 20px;
+    margin-top: 9%;
+    letter-spacing: 2px;
+    padding-top: 70px;
+}
+
+ .poster{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: copperplate, Papyrus, fantasy;
+    letter-spacing: 1.2px;
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 30px
+}
+
+.outline{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: copperplate, Papyrus, fantasy;
+    letter-spacing: 1.2px;
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 30px
+}
+
+.poster2{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: copperplate, Papyrus, fantasy;
+    letter-spacing: 1.2px;
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 30px
+}
+
+.mail{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: copperplate, Papyrus, fantasy;
+    letter-spacing: 1.2px;
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 30px
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 25px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+.shiz{
+    padding-top: 2%;
+    display: block;
+    margin-right: auto;
+    width: 60%;
+}
